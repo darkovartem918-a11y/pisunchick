@@ -1,0 +1,35 @@
+{
+  "users": {
+    "5866043161": {
+      "balance_rub": 0,
+      "paid_orders": 1,
+      "spent_rub": 0,
+      "visited": true
+    },
+    "6193355169": {
+      "balance_rub": 0,
+      "paid_orders": 0,
+      "spent_rub": 0,
+      "visited": true
+    },
+    "870630080": {
+      "balance_rub": 0,
+      "paid_orders": 0,
+      "spent_rub": 0,
+      "visited": true
+    },
+    "8456521915": {
+      "balance_rub": 0,
+      "paid_orders": 0,
+      "spent_rub": 0,
+      "visited": true
+    }
+  },
+  "stats": {
+    "visitors": 4,
+    "total_paid_orders": 1,
+    "active_orders": 1,
+    "total_topups_rub": 0,
+    "total_spent_rub": 0
+  }
+}
